@@ -28,4 +28,4 @@ To implement a Zener Voltage regulator and to obtain the output for variable loa
 36.	## OUTPUTS:
 
 37.	## RESULT:
-
+ 
